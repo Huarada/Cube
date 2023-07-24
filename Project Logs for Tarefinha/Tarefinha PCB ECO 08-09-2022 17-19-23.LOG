@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=DUAL 1 Pin=D2-1
+Removed Pin From Net: NetName=DUAL 3 Pin=D4-1
+Removed Pin From Net: NetName=DUAL 1 Pin=D6-2
+Removed Pin From Net: NetName=DUAL 3 Pin=D8-2
+Added Component: Designator=U1(STM-FM-15)
+Added Pin To Net: NetName=sense A Pin=U1-1
+Added Pin To Net: NetName=DUAL 1 Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=output A Pin=U1-5
+Added Pin To Net: NetName=Enable 1 Pin=U1-6
+Added Pin To Net: NetName=output B Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=5V Pin=U1-9
+Added Pin To Net: NetName=output C Pin=U1-10
+Added Pin To Net: NetName=Enable 2 Pin=U1-11
+Added Pin To Net: NetName=output D Pin=U1-12
+Added Pin To Net: NetName=DUAL 3 Pin=U1-13
+Added Pin To Net: NetName=sense B Pin=U1-15
+Added Pin To Net: NetName=DUAL 2 Pin=D2-1
+Added Pin To Net: NetName=DUAL 2 Pin=D6-2
+Added Pin To Net: NetName=DUAL 2 Pin=U1-3
+Added Net: Name=DUAL 2
+Added Pin To Net: NetName=DUAL 4 Pin=D4-1
+Added Pin To Net: NetName=DUAL 4 Pin=D8-2
+Added Pin To Net: NetName=DUAL 4 Pin=U1-14
+Added Net: Name=DUAL 4
+Added Member To Class: ClassName=Tarefinha Member=Component U1 STM32F303CCT6
+Added Member To Class: ClassName=Tarefinha Member=Component U1 L298N
+Added Room: Name=Tarefinha
